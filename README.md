@@ -37,10 +37,10 @@ Contributions to enhance functionality, bug fixes, or feature additions are welc
 
 ## License
 
-This project is under [License Name]. Refer to the LICENSE file for more details.
+This project is under apache licence 2.0 Refer to the LICENSE file for more details.
 
 ## Contact
 
-- **Email:** [Your Email]
-- **Twitter:** [Your Twitter Handle]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** [haikihamza456@gmail.com]
+- **Twitter:** [@HamzaElhaiki]
+- **LinkedIn:** [Hamza Elhaiki]
