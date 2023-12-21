@@ -12,7 +12,7 @@ AirTrack Notifier is a Python-based project designed to scrape flight data from 
 
 - Python
 - Selenium (for web scraping)
-- Email notification API (for user alerts)
+- Mailgun Email notification API (for user alerts)
 - CSV handling for data storage
 
 ## Installation & Usage
